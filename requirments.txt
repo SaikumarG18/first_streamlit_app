@@ -1,2 +1,5 @@
 # requirments.txt
-snowflake-connector-python
+pandas
+streamlit
+snowflake
+snowflake-connector-python = 2.7.9
